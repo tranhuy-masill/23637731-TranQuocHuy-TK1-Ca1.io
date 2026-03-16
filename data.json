@@ -1,0 +1,39 @@
+{
+    "profile": {
+        "fullName": "Trần Quốc Huy",
+        "title": "Sinh viên - Công Nghệ Thông Tin",
+        "avatar": "👤"
+    },
+    "basicInfo": {
+        "hoVaTen": "Trần Quốc Huy",
+        "maSoSinhVien": "23637731",
+        "lop": "DHKHDL19A",
+        "email": "23637731.huy@student.iuh.edu.vn"
+    },
+    "introduction": "Xin chào! Tôi là sinh viên năm thứ 3 ngành Công Nghệ Thông Tin với niềm đam mê lớn về phát triển phần mềm và công nghệ web. Tôi có kỹ năng làm việc cách với các công nghệ hiện đại và luôn sẵn sàng học hỏi những điều mới. Trong thời gian học tập, tôi đã tham gia vào nhiều dự án nhóm và có kinh nghiệm làm việc trong môi trường Agile. Tôi có khả năng giao tiếp tốt, sáng tạo và có tinh thần trách nhiệm cao trong công việc.",
+    "skills": [
+        "HTML/CSS",
+        "JavaScript",
+        "Python",
+        "SQL"
+    ],
+    "socialLinks": [{
+            "name": "LinkedIn",
+            "icon": "L",
+            "url": "https://www.linkedin.com/in/huy-tr%E1%BA%A7n-1148933b7/"
+        },
+        {
+            "name": "GitHub",
+            "icon": "⚙",
+            "url": "https://github.com/tranhuy-masill"
+        },
+        {
+            "name": "Email",
+            "icon": "✉",
+            "url": "23637731.huy@student.iuh.edu.vn"
+        }
+    ],
+    "footer": {
+        "copyright": "© 2026 Trần Quốc Huy. All rights reserved."
+    }
+}
